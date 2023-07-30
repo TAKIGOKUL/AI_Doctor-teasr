@@ -1,5 +1,5 @@
 ## Inspiration
-The increasing burden on healthcare systems worldwide and the need for quicker and more efficient diagnosis led us to create AI Doctor Assistant. Our goal is to provide doctors with a tool that can aid in the diagnosis process and help them make informed decisions faster.
+The increasing burden on healthcare systems worldwide and the need for quicker and more efficient diagnosis led us to create AI Doctor Assistant. Our goal is to provide doctors with a tool that can aid in the diagnosis process and help them make informed decisions much faster.
 
 ## What it does
 AI Doctor Assistant is a medical AI tool that can predict various diseases like breast cancer, healthy/unhealthy heart, lung and diabetes. It also includes a chatbot that functions as a virtual assistant to answer any queries a doctor might have. The AI model is trained on relevant medical data and uses state-of-the-art algorithms to make predictions.
